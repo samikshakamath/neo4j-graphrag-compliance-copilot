@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated indexes
+vector_index.faiss
+metadata.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

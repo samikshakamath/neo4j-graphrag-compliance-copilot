@@ -1,0 +1,61 @@
+question,evaluation
+How do we delete customer data?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+Who reviews customer data deletion requests?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What is GDPR Article 17?,"Correctness: 1  
+Completeness: 1  
+Grounding: 1"
+What personal information does AcmeTech collect?,"Correctness: 2  
+Completeness: 2  
+Grounding: 2"
+Why does AcmeTech process customer data?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+Can customers request deletion of their personal data?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What is the purpose of the Customer Privacy Policy?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What is the purpose of the Data Deletion Procedure?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+Who is responsible for documenting deletion requests?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What types of personal data are covered by the deletion procedure?,"Correctness: 4  
+Completeness: 4  
+Grounding: 3"
+How does AcmeTech comply with GDPR data deletion requirements?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What happens after a deletion request is submitted?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+Which policy supports GDPR Article 17 compliance?,"Correctness: 2  
+Completeness: 2  
+Grounding: 2"
+Which procedure implements customer data deletion requirements?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What customer rights are recognized by AcmeTech?,"Correctness: 5  
+Completeness: 5  
+Grounding: 4"
+How are privacy regulations connected to operational procedures?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+What relationship exists between GDPR Article 17 and the Data Deletion Procedure?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+How does AcmeTech ensure deletion requests are compliant with regulations?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+Which documents govern customer data deletion?,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"
+Explain the compliance chain for customer data deletion.,"Correctness: 5  
+Completeness: 5  
+Grounding: 5"

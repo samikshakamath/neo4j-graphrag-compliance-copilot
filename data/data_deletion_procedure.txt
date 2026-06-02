@@ -1,0 +1,157 @@
+AcmeTech Solutions Data Deletion Procedure
+1. Purpose
+This procedure defines the process for handling requests to delete personal data held by AcmeTech
+Solutions. The objective is to ensure compliance with applicable privacy regulations and company policies
+while maintaining appropriate records for legal, regulatory, and operational purposes.
+2. Scope
+This procedure applies to:
+Customer personal data
+Employee personal data
+Vendor representative personal data
+Any personal information processed by AcmeTech Solutions
+This procedure shall be followed by all departments handling personal data.
+3. Roles and Responsibilities
+Data Subject
+The individual requesting deletion of personal information.
+Customer Support Team
+Responsible for receiving and documenting deletion requests from customers.
+Human Resources Department
+Responsible for handling employee-related deletion requests.
+Data Protection Officer (DPO)
+Responsible for reviewing deletion requests and ensuring regulatory compliance.
+Information Security Team
+Responsible for executing approved deletion activities and maintaining audit records.
+•
+•
+•
+•
+1
+4. Deletion Request Channels
+Requests may be submitted through:
+Customer support portal
+Privacy request form
+Official company email address
+Human Resources service desk
+All requests must be assigned a unique request identifier.
+5. Deletion Request Workflow
+Step 1: Request Submission
+The requester submits a deletion request containing:
+Full name
+Contact information
+Description of the request
+Proof of identity where required
+Step 2: Identity Verification
+The company shall verify the identity of the requester before processing any deletion request.
+Verification methods may include:
+Account authentication
+Government-issued identification
+Employment verification
+Step 3: Request Registration
+The request shall be logged in the Privacy Request Register.
+The following information shall be recorded:
+Request ID
+Request date
+Request type
+Requester information
+Assigned reviewer
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+2
+Step 4: Eligibility Assessment
+The Data Protection Officer shall determine whether the deletion request can be fulfilled.
+Deletion may be denied when:
+Legal obligations require retention
+Ongoing litigation exists
+Financial record retention requirements apply
+Security investigations are active
+Step 5: Approval
+Approved requests shall be forwarded to the Information Security Team for execution.
+Rejected requests shall be documented with justification.
+Step 6: Data Deletion Execution
+The Information Security Team shall remove personal information from:
+Production databases
+Customer management systems
+Human resource systems
+File storage repositories
+Analytics platforms
+Where complete deletion is not technically possible, data shall be anonymized.
+Step 7: Verification
+A secondary reviewer shall verify that deletion activities were completed successfully.
+Verification shall include:
+Database checks
+Application record checks
+Storage validation
+Step 8: Closure
+The requester shall be notified of completion.
+The request status shall be marked as closed.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+3
+6. Retention Exceptions
+Data shall not be deleted if retention is required for:
+Tax regulations
+Employment law obligations
+Fraud investigations
+Legal proceedings
+Regulatory audits
+The reason for retention must be documented.
+7. Processing Timeline
+Deletion requests shall be acknowledged within 5 business days.
+Approved deletion requests should be completed within 30 calendar days.
+Complex requests may require additional review and approval.
+8. Audit Logging
+The following information shall be maintained for audit purposes:
+Request ID
+Processing dates
+Approval decisions
+Systems affected
+Personnel involved
+Audit records shall be retained for five years.
+9. Security Requirements
+Deletion activities shall be performed only by authorized personnel.
+Administrative actions must be logged and monitored.
+All deletion activities shall follow company information security standards.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+4
+10. Related Documents
+AcmeTech Customer Privacy Policy
+AcmeTech Employee Data Policy
+AcmeTech Vendor Management Policy
+GDPR Article 17 – Right to Erasure
+GDPR Article 32 – Security of Processing
+11. Version History
+Version Date Description
+1.0 2026-01-01 Initial Release

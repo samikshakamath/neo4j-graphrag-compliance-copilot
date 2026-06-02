@@ -1,0 +1,68 @@
+AcmeTech Solutions Employee Data Policy
+1. Purpose
+This policy establishes the requirements for collecting, processing, storing, and protecting employee
+personal data at AcmeTech Solutions.
+2. Scope
+This policy applies to all employees, contractors, interns, and temporary staff whose personal information is
+processed by AcmeTech Solutions.
+3. Data Collected
+AcmeTech may collect:
+Full name
+Address
+Phone number
+Email address
+Government identification number
+Payroll information
+Attendance records
+Performance review records
+4. Lawful Basis for Processing
+Employee data shall only be processed for legitimate business purposes including:
+Payroll administration
+Benefits management
+Employment contracts
+Legal compliance obligations
+5. Data Security
+Employee personal data shall be protected through:
+Role-based access controls
+Encryption at rest
+Encryption in transit
+Multi-factor authentication
+Periodic security audits
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+1
+6. Data Retention
+Employee records shall be retained for seven years following termination of employment unless a longer
+retention period is required by law.
+7. Employee Rights
+Employees have the right to:
+Access personal information
+Correct inaccurate information
+Request deletion where legally permissible
+Restrict processing in certain circumstances
+8. International Data Transfers
+Employee data may only be transferred outside the European Union when adequate safeguards are in
+place.
+9. Responsibilities
+Human Resources is responsible for ensuring compliance with this policy.
+The Information Security Team is responsible for implementing technical safeguards.
+•
+•
+•
+•
+2

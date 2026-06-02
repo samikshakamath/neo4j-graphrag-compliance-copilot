@@ -1,0 +1,55 @@
+AcmeTech Solutions Customer Privacy Policy
+1. Purpose
+This policy explains how AcmeTech collects, processes, and protects customer personal information.
+2. Information Collected
+The company may collect:
+Name
+Email address
+Phone number
+Billing information
+Device information
+Website usage information
+3. Purpose of Processing
+Customer data is processed for:
+Service delivery
+Customer support
+Billing
+Security monitoring
+Legal compliance
+4. Consent Management
+Where required, customer consent shall be obtained before collecting or processing personal information.
+Customers may withdraw consent at any time.
+5. Data Sharing
+Customer information may be shared with approved service providers who perform services on behalf of
+AcmeTech.
+All third-party processors must sign a Data Processing Agreement.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+1
+6. Customer Rights
+Customers may request:
+Access to personal information
+Correction of inaccurate information
+Deletion of personal information
+Export of personal information
+7. Security Controls
+AcmeTech protects customer data using:
+Encryption
+Access controls
+Audit logging
+Continuous monitoring
+8. International Transfers
+Transfers of customer information outside the European Union require approved legal transfer
+mechanisms.
+9. Data Retention
+Customer records shall be retained for five years after account closure unless legal requirements dictate
+otherwise.
